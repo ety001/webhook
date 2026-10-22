@@ -2,7 +2,7 @@ module github.com/adnanh/webhook
 
 go 1.21
 
-toolchain go1.22.0
+toolchain go1.27.3
 
 require (
 	github.com/Microsoft/go-winio v0.6.2
